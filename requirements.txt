@@ -1,1 +1,4 @@
-TeleBot
+pyTelegramBotAPI
+requests
+redis
+kvsqlite
