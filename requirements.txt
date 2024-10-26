@@ -1,2 +1,1 @@
-telebot
-TeleBotTeleBotTeleBot
+TeleBot
